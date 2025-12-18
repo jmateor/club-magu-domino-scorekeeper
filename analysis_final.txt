@@ -1,0 +1,9 @@
+Analyzing club-magú-domino-scorekeeper...                       
+
+   info - The constant name 'WINNING_SCORE' isn't a lowerCamelCase identifier - lib\providers\game_provider.dart:7:11 - constant_identifier_names
+   info - Statements in an if should be enclosed in a block - lib\providers\game_provider.dart:111:38 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\providers\game_provider.dart:112:45 - curly_braces_in_flow_control_structures
+  error - Undefined name 'winningScore' - lib\screens\home_screen.dart:177:62 - undefined_identifier
+  error - Undefined name 'winningScore' - lib\screens\home_screen.dart:183:64 - undefined_identifier
+  error - Undefined name 'winningScore' - lib\screens\home_screen.dart:195:46 - undefined_identifier
+

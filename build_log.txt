@@ -1,0 +1,41 @@
+Running Gradle task 'assembleRelease'...                        
+Error: Unable to read file: D:\club-mag´┐¢-domino-scorekeeper\.dart_tool\flutter_build\4e572bcf3d9ddddaf6efc526e28b7cc2\app.dill
+Error: Unable to read file: D:\club-mag´┐¢-domino-scorekeeper\.dart_tool\flutter_build\4e572bcf3d9ddddaf6efc526e28b7cc2\app.dill
+Dart snapshot generator failed with exit code 255
+Error: Unable to read file: D:\club-mag´┐¢-domino-scorekeeper\.dart_tool\flutter_build\4e572bcf3d9ddddaf6efc526e28b7cc2\app.dill
+Dart snapshot generator failed with exit code 255
+Dart snapshot generator failed with exit code 255
+Could not write file to D:\club-mag├║-domino-scorekeeper\build\app\intermediates\flutter\release\flutter_assets\shaders/stretch_effect.frag
+
+Could not write file to D:\club-mag├║-domino-scorekeeper\build\app\intermediates\flutter\release\flutter_assets\shaders/ink_sparkle.frag
+
+Font asset "lucide.ttf" was tree-shaken, reducing it from 413764 to 5740 bytes (98.6% reduction). Tree-shaking can be disabled by providing the --no-tree-shake-icons flag when building your app.
+Font asset "MaterialIcons-Regular.otf" was tree-shaken, reducing it from 1645184 to 1840 bytes (99.9% reduction). Tree-shaking can be disabled by providing the --no-tree-shake-icons flag when building your app.
+Target android_aot_release_android-arm failed: Exception: AOT snapshotter exited with code 255
+Target android_aot_release_android-arm64 failed: Exception: AOT snapshotter exited with code 255
+Target android_aot_release_android-x64 failed: Exception: AOT snapshotter exited with code 255
+Target aot_android_asset_bundle failed: ShaderCompilerException: Shader compilation of "D:\flutter_windows_3.35.4-stable\flutter\packages\flutter\lib\src\material\shaders\stretch_effect.frag" to "D:\club-mag├║-domino-scorekeeper\build\app\intermediates\flutter\release\flutter_assets\shaders/stretch_effect.frag" failed with exit code 1.
+impellerc stdout:
+
+impellerc stderr:
+Could not write file to D:\club-mag├║-domino-scorekeeper\build\app\intermediates\flutter\release\flutter_assets\shaders/stretch_effect.frag
+
+
+
+
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':app:compileFlutterBuildRelease'.
+> Process 'command 'D:\flutter_windows_3.35.4-stable\flutter\bin\flutter.bat'' finished with non-zero exit value 1
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+> Get more help at https://help.gradle.org.
+
+BUILD FAILED in 6s
+Running Gradle task 'assembleRelease'...                            7,7s
+Gradle task assembleRelease failed with exit code 1

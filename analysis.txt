@@ -1,0 +1,8 @@
+Analyzing club-magu-domino-scorekeeper...                       
+
+  error - The argument for the named parameter 'winner' was already specified - lib\providers\game_provider.dart:232:9 - duplicate_named_argument
+warning - Unused import: 'home_screen.dart' - lib\screens\welcome_screen.dart:10:8 - unused_import
+warning - Unused import: 'package:provider/provider.dart' - lib\widgets\app_drawer.dart:3:8 - unused_import
+warning - Unused import: '../providers/game_provider.dart' - lib\widgets\app_drawer.dart:4:8 - unused_import
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\widgets\start_game_dialog.dart:85:15 - deprecated_member_use
+
