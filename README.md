@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/137rkq2EHACfrK4k3bgFYUxTYsLUDXm0C
+
 
 ## Run Locally
 
@@ -19,3 +19,4 @@ View your app in AI Studio: https://ai.studio/apps/drive/137rkq2EHACfrK4k3bgFYUx
 3. Run the app:
    `npm run dev`
 "# club-magu-domino-scorekeeper" 
+
